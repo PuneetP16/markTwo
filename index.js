@@ -105,15 +105,15 @@ console.log("Check out the high scores below, \nif you should be there send me s
 var highest_score = [
   {
     "name": "Puneet",
-    "score": 10
+    "score": 7
   },
   {
     "name": "Vishalbhai",
-    "score": 8
+    "score": 5
   },
   {
     "name": "Lovely dad",
-    "score": 7
+    "score": 4
   }
 ]
 
